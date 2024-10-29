@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857915399259",
+    "project_id": "biyorobot-33e61",
+    "storage_bucket": "biyorobot-33e61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857915399259:android:44dd8cfc80ad94d163b37e",
+        "android_client_info": {
+          "package_name": "com.example.chatbotkou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKeIgq1uMvWMdB4IYi0-fxgNlQ87w1scM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
